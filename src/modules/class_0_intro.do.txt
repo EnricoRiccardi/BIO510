@@ -1,0 +1,60 @@
+!split
+===== Let me first introduce myself =====
+!bslidecell 00
+Enrico Riccardi
+email: enrico.riccardi@uis.no
+office: KE-E-301B
+!eslidecell
+
+!bpop
+=== Before to be here... ===
+* Chemical engineer graduated from the Politecnico di Torino
+* PhD at M$\&S$T university of Rolla, Missouri, USA
+* Post Doc at TUD Darmstadt, Germany
+* Researcher at NTNU, Trondheim, Norway
+* Post Doc UiO, Oslo, Norway
+* Assoc. Prof. at Uis, Stavanger, Norway
+
+
+!bslidecell 01
+FIGURE: [../figures/torino, width=200 frac=1.0]
+!eslidecell
+
+!epop
+
+!split
+===== Teaching method =====
+_!Active Learning!_
+
+!bpop
+* There will be a combination of lectures and tutorials.
+
+* Tutorial and hands-on will be presented during the course.
+
+* Study groups are strongly encouraged.
+
+* In class discussions are encouraged at any stage.
+
+* Flip classroom approach: problem first (when possible).
+
+* Feedback expected from you!
+
+* Note: each teacher, even if coordinated, will have a different approach/expectations.
+!epop
+
+
+!split
+===== A personal considerations on generative AI =====
+!bblock
+With great power comes great responsibility (Spider-Man)
+!eblock
+
+LLMs can and shall be used. As their development is surging in the last years, their help
+in writing code and reports is undeniable. Students shall learn how to master these tools.
+Yet, while their usage is encouraged, the risk of excessively rely on them _DO_ hinder learning.
+
+\pause
+
+If you want to be a student (i.e. whom is learning), you are encouraged to take the responsibility in delivering original
+output.
+

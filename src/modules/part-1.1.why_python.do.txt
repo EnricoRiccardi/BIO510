@@ -1,0 +1,19 @@
+!split
+======= Python =======
+
+!split
+===== Popularity =====
+FIGURE: [../figures/most, width=100]
+
+
+!split
+===== What makes python sexy? =====
+* Community
+* Training material for LLMs
+* Environments
+* Integration with other software
+* Speed
+* Readability
+* Re-usability
+* M-L libraries
+* Community standards
