@@ -1,5 +1,5 @@
-Assignment: Working with Nucleotide Sequences in Python
-=======================================================
+Assignment 1: Working with Nucleotide Sequences in Python
+=========================================================
 
 In this assignment, you will work with randomly generated DNA sequences and perform various
 operations using Python. This exercise will help you practice essential programming concepts,
