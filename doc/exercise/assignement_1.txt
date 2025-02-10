@@ -1,0 +1,38 @@
+Assignment: Working with Nucleotide Sequences in Python
+=======================================================
+
+In this assignment, you will work with randomly generated DNA sequences and perform various
+operations using Python. This exercise will help you practice essential programming concepts,
+including variables, lists, functions, dictionaries, and object-oriented programming (OOP).
+
+Exercise A
+----------
+A.1 Construct a variable that contains 16 randomly selected nucleotides (that is a sequence).
+A.2 Generate a list of 50 sequences generated in point A.1
+A.3 Write a function to do point A.2.
+A.4 Use the function A.3 to generate two lists of 10000 sequences.
+
+TIP: you can use the class developed in class for each of the task of this exercise.
+
+
+Exercise B
+----------
+B.1 Make a function that compare the two lists generated in A.4 and gives how many sequences
+are present in both lists.
+B.2 Save in a dictionary the sequences are present in both lists and how many times the
+sequences are present in both lists.
+
+TIP: You need to use a nested for loop (one for loop inside the other) 
+
+
+Exercise C
+----------
+C.1 Make a histogram with the list of B.2.
+C.2 Construct a class that contains the methods you generated in the points A.3 to C.1.
+C.3 Use the class written in C.2 to make the histogram of point C.1.
+
+TIP: Use the notebook for the histogram developed in class. For C.3 you can make a function inside the class.
+
+
+General tip. Work out the notebook developed in class, these exercises requires very little code development, it is mostly an application
+of what we went over in class. You do not need more concepts to solve these other than the tools presented in class.
